@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sav2" itemID="5062cab2-000001dd" symbolType="button" lastModified="1348651698">
+  <timeline>
+    <DOMTimeline name="sav2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Savivaldybiu_konturai.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-303.4" ty="-299.9"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!452 382S2[369 379 312 422!312 422[305 369 252 362!252 362[-7 339 152 302!152 302[177 277 163 224!163 224[162 222 152 222!152 222[76 177 12 122!12 122[-24 77 52 42!52 42[81 53 192 42!192 42[222 -8 312 2!312 2[334 1 368 83!368 83[372 92
+ 372 102!372 102[470 73 592 122!592 122[519 199 462 297!462 297[427 357 492 382!492 382[496 445 457 398!457 398[452 392 452 382"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

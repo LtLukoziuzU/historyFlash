@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sav3" itemID="5062eee4-000001e1" symbolType="button" lastModified="1348660964">
+  <timeline>
+    <DOMTimeline name="sav3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Bitmap 3" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.0815124511719" d="-14.8223266601563" tx="-6.3" ty="30.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!582 150S1[549 123 507 120!507 120[504 120 502 120!502 120|457 85!457 85|447 55!447 55[429 49 412 35!412 35[405 29 407 20!407 20|372 0!372 0|377 15!377 15|372 135!372 135[365 114 352 100!352 100[271 81 202 115!202 115|112 120!112 120
+|97 110!97 110[54 112 12 120!12 120[7 122 2 125!2 125[-5 134 17 135!17 135[19 135 22 135!22 135|17 240!17 240|32 280!32 280[38 290 39 296!39 296[39 297 37 300!37 300[24 296 26 309!26 309[27 312 32 315!32 315[59 311 77 330!77 330|127 330
+!127 330|182 305!182 305[206 306 231 312!231 312[234 310 237 315!237 315[290 302 347 300!347 300[360 304 367 310!367 310[384 349 364 388!364 388[362 392 357 395!357 395[359 405 368 407!368 407[372 410 377 410!377 410|407 385!407 385|462
+ 365!462 365[471 317 517 305!517 305|562 285!562 285|587 265!587 265|587 245!587 245|597 225!597 225|617 210!617 210[605 183 584 158!584 158[582 155 582 150"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

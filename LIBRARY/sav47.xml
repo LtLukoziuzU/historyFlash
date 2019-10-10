@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sav47" itemID="5062f2c7-000002c3" symbolType="button" lastModified="1348661960">
+  <timeline>
+    <DOMTimeline name="sav47">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Savivaldybiu_konturai.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-304" ty="-440.4"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!826 693S2[820 722 820 752!820 752[752 794 640 792!640 792[626 908 458 888!458 888[410 882 364 873!364 873[360 872 360 852!360 852[321 727 208 788!208 788[200 792 200 812!200 812[180 822 165 817!165 817[150 812 140 792!140 792[51 811
+ 40 752!40 752[-1 686 78 648!78 648[90 642 100 632!100 632[124 578 106 564!106 564[90 552 80 532!80 532[90 512 102 494!102 494[110 482 120 472!120 472[76 416 97 390!97 390[110 372 120 352!120 352[108 254 0 252!0 252[1 213 10 188!10 188
+[20 162 20 132!20 132[40 122 59 110!59 110[70 102 80 92!80 92[102 62 160 82!160 82|160 72!160 72[193 15 280 12!280 12[330 -23 386 47!386 47[390 52 400 52!400 52[374 156 332 238!332 238[330 242 340 252!340 252[347 259 407 224!407 224[410
+ 222 420 232!420 232[430 242 440 252!440 252[464 281 440 332!440 332[430 352 420 372!420 372[494 416 509 354!509 354[510 352 520 352!520 352[625 434 763 409!763 409[800 402 836 420!836 420[840 422 840 432!840 432[847 579 826 693"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

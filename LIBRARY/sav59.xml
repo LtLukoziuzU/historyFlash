@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sav59" itemID="5062f396-000002ff" symbolType="button" lastModified="1348662166">
+  <timeline>
+    <DOMTimeline name="sav59">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Savivaldybiu_konturai.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-314" ty="-356.65"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!476 362S2[470 367 460 367!460 367[441 413 432 348!432 348[430 337 420 327!420 327[390 307 360 287!360 287[240 307 200 407!200 407[182 476 230 477!230 477|224 489!224 489[221 496 220 504!220 504[200 512 183 521!183 521[154 523 120 507
+!120 507[114 473 90 454!90 454[80 447 80 427!80 427[26 431 11 390!11 390[10 387 0 387!0 387[38 305 140 287!140 287[182 249 210 197!210 197|222 201!222 201[240 207 260 207!260 207[250 187 250 167!250 167[250 157 260 147!260 147[219 126
+ 180 107!180 107[146 101 156 46!156 46[160 27 160 7!160 7[213 -21 237 68!237 68[240 77 240 87!240 87[283 78 302 72!302 72[320 67 340 67!340 67[341 106 364 119!364 119[380 127 400 127!400 127[388 170 412 183!412 183[420 187 420 207!420
+ 207[478 209 500 247!500 247[536 317 476 362"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

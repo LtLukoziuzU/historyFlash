@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sav54" itemID="5062f347-000002e6" symbolType="button" lastModified="1348662087">
+  <timeline>
+    <DOMTimeline name="sav54">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Bitmap 3" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.0815124511719" d="-14.8223266601563" tx="-7.55" ty="29.25"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!522 253S2[462 305 396 354!396 354[384 363 373 374!373 374[362 385 347 392!347 392[347 355 347 318!347 318[347 311 347 303!347 303[339 296 331 295!331 295[166 281 0 274!0 274[0 214 0 155!0 155[0 148 0 140!0 140[0 133 0 126!0 126[0 111
+ 2 110!2 110[166 88 331 74!331 74[339 74 347 66!347 66[336 11 362 0!362 0|362 7!362 7[408 28 443 60!443 60[471 85 500 108!500 108[537 138 575 167!575 167[588 177 603 185!603 185[562 218 522 253"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
